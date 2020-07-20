@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/MainWindow.qml</file>
+        <file>qml/icons/close.svg</file>
+        <file>qml/icons/database.svg</file>
+        <file>qml/icons/file.svg</file>
+        <file>qml/icons/plus.svg</file>
+        <file>qml/icons/save.svg</file>
+        <file>qml/std/RegularText.qml</file>
+        <file>qml/std/Shadow.qml</file>
+        <file>qml/std/TitleText.qml</file>
+        <file>qml/std/imgs/shadow_1.png</file>
+        <file>qml/std/imgs/shadow_2.png</file>
+        <file>qml/std/imgs/shadow_3.png</file>
+        <file>qml/std/imgs/shadow_4.png</file>
+        <file>qml/std/imgs/shadow_6.png</file>
+        <file>qml/std/imgs/shadow_8.png</file>
+        <file>qml/std/imgs/shadow_9.png</file>
+        <file>qml/std/imgs/shadow_12.png</file>
+        <file>qml/std/imgs/shadow_16.png</file>
+        <file>qml/std/imgs/shadow_24.png</file>
+        <file>qml/std/MaterialDialog.qml</file>
+        <file>qml/std/FlatButton.qml</file>
+        <file>qml/std/ButtonText.qml</file>
+        <file>qml/AddAccountDialog.qml</file>
+        <file>qml/OpenDatabaseDialog.qml</file>
+        <file>qml/std/MediumText.qml</file>
+        <file>qml/icons/eye.svg</file>
+        <file>qml/std/Ripple.qml</file>
+        <file>qml/std/MaterialTextField.qml</file>
+        <file>qml/std/Divider.qml</file>
+        <file>qml/std/Toolbar.qml</file>
+        <file>qml/AccountItem.qml</file>
+        <file>qml/icons/copy.svg</file>
+    </qresource>
+</RCC>
